@@ -3,3 +3,5 @@ The Image Searching Tool is a user-friendly web application designed to help you
 
 Prefer to use your own unsplash access key for this JavaScript project.
 My account Access Key: wBYqpEM7PA5zgeE0wv7rTHpgOvMcH-xkckq9ZdiVpD8
+
+<img width="960" alt="image" src="https://github.com/vedantfutane/Image-Searching-Tool/assets/104979458/120151b6-51e9-4e3f-8bd2-92c95f06a1f2">
